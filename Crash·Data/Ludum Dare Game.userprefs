@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Enemies\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\DividedVirus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Spyware.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Shield.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Data Pieces\DataPiece.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="52" Column="58" />
+      <File FileName="Assets\Scripts\Enemies\Trojan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemies\Centipede.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Managers\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Managers\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Managers\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlueScreenScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayFabScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TutorialController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Joysticks\JoystickScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
